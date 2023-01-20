@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MinnThuKhaDev
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript & PHP
+- 👀 I’m interested in Programming & Networking.
+- 🌱 I’m currently learning JavaScript & PHP.
 - 💞️ I’m looking to collaborate on web developer
 - 📫 How to reach me minnthukha.dev@gmail.com / +959740935755
 
